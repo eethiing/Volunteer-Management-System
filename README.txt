@@ -1,6 +1,8 @@
 VOLUNTEER MANAGEMENT SYSTEM
 ---------------------------
 
+1. Data structure coursework using C++. 
+
 || Volunteer
 
 There are 3 volunteer related files/folders: 
